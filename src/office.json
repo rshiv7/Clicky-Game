@@ -1,7 +1,7 @@
 [
     {
       "id": 1,
-      "image": "Angela.jpg"
+      "image": "Andy.jpeg"
     },
     {
       "id": 2,
@@ -9,42 +9,42 @@
     },
     {
       "id": 3,
-      "image": "Pam.jpg"
+      "image": "Pam.jpeg"
     },
     {
       "id": 4,
-      "image": "Jim.jpg" 
+      "image": "Jim.jpeg" 
     },
     {
       "id": 5,
-      "image": "Micheal.jpg"
+      "image": "Micheal.jpeg"
     },
     {
       "id": 6,
-      "image": "Darryl.jpg"
+      "image": "Darryl.jpeg"
     },
     {
       "id": 7,
-      "image": "Stanley.jpg"
+      "image": "Stanley.jpeg"
     },
     {
       "id": 8,
-      "image": "Oscar.jpg"
+      "image": "Oscar.jpeg"
     },
     {
       "id": 9,
-      "image": "Phyllis.jpg"
+      "image": "Phyllis.jpeg"
     },
     {
       "id": 10,
-      "image": "Meredith.jpg"
+      "image": "Meredith.jpeg"
     },
     {
       "id": 11,
-      "image": "Kevin.JPG"
+      "image": "Kevin.jpeg"
     },
     {
       "id": 12,
-      "image": "Ryan.jpg"
+      "image": "Ryan.jpeg"
     }
   ]
