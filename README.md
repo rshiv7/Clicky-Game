@@ -1,6 +1,6 @@
 # The Office Clicky-Game
 
-![alt text](./Click_screenshot.png "Clicky Game")
+![alt text](./Click_Screenshot.png "Clicky Game")
 ![alt text](./Click.gif "Clicky Game")
 
 ## Overview
